@@ -18,6 +18,9 @@ Hi, I'm **WOSHIZHAZHA120**
 > |
 > [Podman](https://podman.io)
 ---
+#### Code Time
+![Code Time](https://img.shields.io/endpoint?url=https%3A%2F%2Fcodetime-api.datreks.com%2Fbadge%2F2270&style=for-the-badge)
+---
 #### About & Contact
 > [Website](https://zhazha120.cn)
 > |
